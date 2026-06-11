@@ -54,7 +54,7 @@ class AppHandler(BaseHTTPRequestHandler):
 </head>
 <body>
   <main>
-    <h1>Aplicacion funcionando</h1>
+    <h1>Aplicacion MONTAJES DELSAZ</h1>
     <p>Si puedes ver esta pagina, el servidor Python esta respondiendo correctamente.</p>
     <p>Endpoint de prueba: <code>/health</code></p>
   </main>
